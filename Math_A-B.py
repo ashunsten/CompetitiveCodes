@@ -25,3 +25,7 @@ class Solution:
 #(x^3-y^3)mod C = (xB-yB)mod C
 #(x^3-xB)mod C = (y^3-yB)mod C
 # Find all subsets with the same mod C and the Largest is the answer
+
+#KeyConcept:
+#In Subsets kind of question, try to search for a common key reference to group data, hence minimizing time complexity
+#In above question the (x^3-xB)mod C is the common key reference
