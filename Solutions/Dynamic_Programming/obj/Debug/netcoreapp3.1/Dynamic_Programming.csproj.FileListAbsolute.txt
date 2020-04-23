@@ -1,0 +1,13 @@
+C:\Users\Techsane\source\repos\CompetitiveCodes\Solutions\Dynamic_Programming\bin\Debug\netcoreapp3.1\Dynamic_Programming.exe
+C:\Users\Techsane\source\repos\CompetitiveCodes\Solutions\Dynamic_Programming\bin\Debug\netcoreapp3.1\Dynamic_Programming.deps.json
+C:\Users\Techsane\source\repos\CompetitiveCodes\Solutions\Dynamic_Programming\bin\Debug\netcoreapp3.1\Dynamic_Programming.runtimeconfig.json
+C:\Users\Techsane\source\repos\CompetitiveCodes\Solutions\Dynamic_Programming\bin\Debug\netcoreapp3.1\Dynamic_Programming.runtimeconfig.dev.json
+C:\Users\Techsane\source\repos\CompetitiveCodes\Solutions\Dynamic_Programming\bin\Debug\netcoreapp3.1\Dynamic_Programming.dll
+C:\Users\Techsane\source\repos\CompetitiveCodes\Solutions\Dynamic_Programming\bin\Debug\netcoreapp3.1\Dynamic_Programming.pdb
+C:\Users\Techsane\source\repos\CompetitiveCodes\Solutions\Dynamic_Programming\obj\Debug\netcoreapp3.1\Dynamic_Programming.csprojAssemblyReference.cache
+C:\Users\Techsane\source\repos\CompetitiveCodes\Solutions\Dynamic_Programming\obj\Debug\netcoreapp3.1\Dynamic_Programming.csproj.CoreCompileInputs.cache
+C:\Users\Techsane\source\repos\CompetitiveCodes\Solutions\Dynamic_Programming\obj\Debug\netcoreapp3.1\Dynamic_Programming.AssemblyInfoInputs.cache
+C:\Users\Techsane\source\repos\CompetitiveCodes\Solutions\Dynamic_Programming\obj\Debug\netcoreapp3.1\Dynamic_Programming.AssemblyInfo.cs
+C:\Users\Techsane\source\repos\CompetitiveCodes\Solutions\Dynamic_Programming\obj\Debug\netcoreapp3.1\Dynamic_Programming.dll
+C:\Users\Techsane\source\repos\CompetitiveCodes\Solutions\Dynamic_Programming\obj\Debug\netcoreapp3.1\Dynamic_Programming.pdb
+C:\Users\Techsane\source\repos\CompetitiveCodes\Solutions\Dynamic_Programming\obj\Debug\netcoreapp3.1\Dynamic_Programming.genruntimeconfig.cache
