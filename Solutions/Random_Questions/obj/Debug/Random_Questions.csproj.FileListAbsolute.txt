@@ -1,0 +1,6 @@
+C:\Users\Techsane\Source\Repos\CompetitiveCodes\Solutions\Random_Questions\bin\Debug\Random_Questions.dll
+C:\Users\Techsane\Source\Repos\CompetitiveCodes\Solutions\Random_Questions\bin\Debug\Random_Questions.pdb
+C:\Users\Techsane\Source\Repos\CompetitiveCodes\Solutions\Random_Questions\obj\Debug\Random_Questions.csprojAssemblyReference.cache
+C:\Users\Techsane\Source\Repos\CompetitiveCodes\Solutions\Random_Questions\obj\Debug\Random_Questions.csproj.CoreCompileInputs.cache
+C:\Users\Techsane\Source\Repos\CompetitiveCodes\Solutions\Random_Questions\obj\Debug\Random_Questions.dll
+C:\Users\Techsane\Source\Repos\CompetitiveCodes\Solutions\Random_Questions\obj\Debug\Random_Questions.pdb

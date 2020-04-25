@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Dynamic_Programming_Questions\Dynamic_Programming_Questions.csproj" />
+    <ProjectReference Include="..\Random_Questions\Random_Questions.csproj" />
+  </ItemGroup>
+
+</Project>
